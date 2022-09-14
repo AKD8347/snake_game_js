@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap");
+html {
+  width: 100%;
+}
+
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover, a:focus, a:visited {
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=styles.css.map */
