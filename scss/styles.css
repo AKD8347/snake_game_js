@@ -1,25 +1,21 @@
-@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap");
-html {
-  width: 100%;
-}
-
+@charset "UTF-8";
+html,
 body {
-  width: 100%;
+  height: 100%;
   margin: 0;
-  padding: 0;
-  border: 0;
 }
 
-a {
-  text-decoration: none;
-}
-a:hover, a:focus, a:visited {
-  text-decoration: none;
+/*Задаём глобальные параметры*/
+body {
+  background: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
+/*Делаем границу вокруг игрового поля*/
 canvas {
-  display: block;
-  margin: 0 auto;
+  border: 5px solid white;
 }
 
 /*# sourceMappingURL=styles.css.map */
