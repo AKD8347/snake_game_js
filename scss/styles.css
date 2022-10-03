@@ -17,4 +17,9 @@ a:hover, a:focus, a:visited {
   text-decoration: none;
 }
 
+canvas {
+  display: block;
+  margin: 0 auto;
+}
+
 /*# sourceMappingURL=styles.css.map */
